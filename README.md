@@ -4,27 +4,24 @@
 - 📫 How to reach me - https://www.linkedin.com/in/hariomnayani/
 
 
-const amado = {
+
+```
+const hariom = {
 
     pronouns: "he" | "him",
-    
     code: [Javascript, HTML, CSS],
-    
     askMeAbout: ["web dev", "tech", "crypto", "music", "soccer"],
-    
     technologies: {
         frontEnd: {
             css: ["bootstrap"]
         },
-        
         backEnd: {
             js: ["firebase", "node","django"]
         }  
         
     }
-    
-};
-
+    };
+```
 
 <!---
 hnayani26/hnayani26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
