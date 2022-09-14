@@ -5,17 +5,24 @@
 
 
 const amado = {
+
     pronouns: "he" | "him",
+    
     code: [Javascript, HTML, CSS],
+    
     askMeAbout: ["web dev", "tech", "crypto", "music", "soccer"],
+    
     technologies: {
         frontEnd: {
             css: ["bootstrap"]
         },
+        
         backEnd: {
             js: ["firebase", "node","django"]
-        }        
+        }  
+        
     }
+    
 };
 
 
